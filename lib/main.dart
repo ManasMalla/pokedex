@@ -7,6 +7,7 @@ import 'package:pokedex/domain/usecases/get_pokemon_usecase.dart';
 
 void main() {
   runApp(const MyApp());
+  //Adding git
 }
 
 class MyApp extends StatelessWidget {
